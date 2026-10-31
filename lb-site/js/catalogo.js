@@ -37,7 +37,7 @@ window.CATALOGO = [
   { cod: "112", nome: "Betsi", imagem: "assets/img/catalogo/17-betsi.webp" },
   { cod: "111", nome: "Monique Renda", imagem: "assets/img/catalogo/18-monique-renda.webp", tags: ["Renda"] },
   { cod: "110", nome: "Amor Mikado", imagem: "assets/img/catalogo/19-amor-mikado.webp", tags: ["Mikado"] },
-  { cod: "110", nome: "Paixão", imagem: "assets/img/catalogo/20-paixao.webp" },
+  { cod: "109", nome: "Paixão", imagem: "assets/img/catalogo/20-paixao.webp" },
   { cod: "108", nome: "Duda Renda", imagem: "assets/img/catalogo/21-duda-renda.webp", tags: ["Renda"] },
   { cod: "107", nome: "Paloma", imagem: "assets/img/catalogo/22-paloma.webp" },
   { cod: "106", nome: "Thaiza", imagem: "assets/img/catalogo/23-thaiza.webp" },
